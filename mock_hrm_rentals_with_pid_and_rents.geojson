@@ -1,0 +1,770 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5714,
+          44.6469
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1000",
+        "name": "Harbour View Apartments",
+        "address": "1457 Lower Water St, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 120,
+        "managed": true,
+        "manager": "Armour Group",
+        "availability": {
+          "1br": "available",
+          "2br": "limited",
+          "3br": "waitlist"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-31",
+        "PID": "89767313",
+        "pid": "89767313",
+        "rent_min": 2144,
+        "rent_max": 3538,
+        "rent_by_type": {
+          "1br": {
+            "min": 2144,
+            "max": 2515
+          },
+          "2br": {
+            "min": 2595,
+            "max": 3042
+          },
+          "3br": {
+            "min": 3000,
+            "max": 3538
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5904,
+          44.6576
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1001",
+        "name": "North End Lofts",
+        "address": "5515 Gottingen St, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 48,
+        "managed": true,
+        "manager": "Killam",
+        "availability": {
+          "studio": "available",
+          "1br": "available",
+          "2br": "limited"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-24",
+        "PID": "92711242",
+        "pid": "92711242",
+        "rent_min": 1598,
+        "rent_max": 2605,
+        "rent_by_type": {
+          "studio": {
+            "min": 1598,
+            "max": 1758
+          },
+          "1br": {
+            "min": 1876,
+            "max": 2271
+          },
+          "2br": {
+            "min": 2245,
+            "max": 2605
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6738,
+          44.7261
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1002",
+        "name": "Bedford Grove",
+        "address": "5 Brookline Dr, Bedford",
+        "building_type": "Multi-Unit Building",
+        "units_total": 96,
+        "managed": true,
+        "manager": "Templeton",
+        "availability": {
+          "1br": "waitlist",
+          "2br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-24",
+        "PID": "00374579",
+        "pid": "00374579",
+        "rent_min": 1936,
+        "rent_max": 2604,
+        "rent_by_type": {
+          "1br": {
+            "min": 1936,
+            "max": 2313
+          },
+          "2br": {
+            "min": 2319,
+            "max": 2604
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5655,
+          44.6702
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1003",
+        "name": "Kings Wharf Residences",
+        "address": "31 Kings Wharf Pl, Dartmouth",
+        "building_type": "Apartment Building",
+        "units_total": 180,
+        "managed": true,
+        "manager": "United Gulf",
+        "availability": {
+          "1br": "limited",
+          "2br": "available",
+          "3br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-25",
+        "PID": "23479022",
+        "pid": "23479022",
+        "rent_min": 1873,
+        "rent_max": 3046,
+        "rent_by_type": {
+          "1br": {
+            "min": 1873,
+            "max": 2172
+          },
+          "2br": {
+            "min": 2443,
+            "max": 2937
+          },
+          "3br": {
+            "min": 2701,
+            "max": 3046
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6086,
+          44.6452
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1004",
+        "name": "Quinpool Court",
+        "address": "6260 Quinpool Rd, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 36,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "1br": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-24",
+        "PID": "64661854",
+        "pid": "64661854",
+        "rent_min": 2094,
+        "rent_max": 2305,
+        "rent_by_type": {
+          "1br": {
+            "min": 2094,
+            "max": 2305
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6257,
+          44.6129
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1005",
+        "name": "Spryfield Heights",
+        "address": "20 Dentith Rd, Halifax",
+        "building_type": "Multi-Unit Building",
+        "units_total": 64,
+        "managed": true,
+        "manager": "Universal Realty",
+        "availability": {
+          "2br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2026-01-02",
+        "PID": "89662285",
+        "pid": "89662285",
+        "rent_min": 2229,
+        "rent_max": 2716,
+        "rent_by_type": {
+          "2br": {
+            "min": 2229,
+            "max": 2716
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6603,
+          44.6675
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1006",
+        "name": "Clayton Park West",
+        "address": "10 Parkland Dr, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 90,
+        "managed": true,
+        "manager": "CAPREIT",
+        "availability": {
+          "1br": "waitlist",
+          "2br": "limited"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-24",
+        "PID": "51716013",
+        "pid": "51716013",
+        "rent_min": 1852,
+        "rent_max": 2840,
+        "rent_by_type": {
+          "1br": {
+            "min": 1852,
+            "max": 2276
+          },
+          "2br": {
+            "min": 2390,
+            "max": 2840
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5821,
+          44.6367
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1007",
+        "name": "South End Flats",
+        "address": "1121 South Park St, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 28,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "studio": "available",
+          "1br": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-30",
+        "PID": "89605985",
+        "pid": "89605985",
+        "rent_min": 1769,
+        "rent_max": 2316,
+        "rent_by_type": {
+          "studio": {
+            "min": 1769,
+            "max": 1945
+          },
+          "1br": {
+            "min": 2034,
+            "max": 2316
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6384,
+          44.6618
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1008",
+        "name": "Fairview Gardens",
+        "address": "360 Titus St, Halifax",
+        "building_type": "Multi-Unit Building",
+        "units_total": 52,
+        "managed": true,
+        "manager": "MetCap",
+        "availability": {
+          "1br": "limited",
+          "2br": "waitlist"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-24",
+        "PID": "29034334",
+        "pid": "29034334",
+        "rent_min": 1749,
+        "rent_max": 2521,
+        "rent_by_type": {
+          "1br": {
+            "min": 1749,
+            "max": 2183
+          },
+          "2br": {
+            "min": 2230,
+            "max": 2521
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5612,
+          44.6644
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1009",
+        "name": "Dartmouth Commons East",
+        "address": "15 Primrose St, Dartmouth",
+        "building_type": "Apartment Building",
+        "units_total": 44,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "1br": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-30",
+        "PID": "37048628",
+        "pid": "37048628",
+        "rent_min": 1809,
+        "rent_max": 2196,
+        "rent_by_type": {
+          "1br": {
+            "min": 1809,
+            "max": 2196
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6912,
+          44.7069
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1010",
+        "name": "Bedford Basin View",
+        "address": "70 Hogan Crt, Bedford",
+        "building_type": "Apartment Building",
+        "units_total": 110,
+        "managed": true,
+        "manager": "Killam",
+        "availability": {
+          "1br": "available",
+          "2br": "available",
+          "3br": "limited"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2026-01-05",
+        "PID": "71461056",
+        "pid": "71461056",
+        "rent_min": 1856,
+        "rent_max": 3393,
+        "rent_by_type": {
+          "1br": {
+            "min": 1856,
+            "max": 2209
+          },
+          "2br": {
+            "min": 2511,
+            "max": 2827
+          },
+          "3br": {
+            "min": 2859,
+            "max": 3393
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6628,
+          44.6699
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1011",
+        "name": "Lakeside Residences",
+        "address": "55 Parkland Dr, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 75,
+        "managed": true,
+        "manager": "CAPREIT",
+        "availability": {
+          "2br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-30",
+        "PID": "62448141",
+        "pid": "62448141",
+        "rent_min": 2456,
+        "rent_max": 2817,
+        "rent_by_type": {
+          "2br": {
+            "min": 2456,
+            "max": 2817
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5114,
+          44.6768
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1012",
+        "name": "Westphal Place",
+        "address": "100 Main St, Dartmouth",
+        "building_type": "Multi-Unit Building",
+        "units_total": 40,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "2br": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-26",
+        "PID": "09406723",
+        "pid": "09406723",
+        "rent_min": 2248,
+        "rent_max": 2650,
+        "rent_by_type": {
+          "2br": {
+            "min": 2248,
+            "max": 2650
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6711,
+          44.6814
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1013",
+        "name": "Rockingham Ridge",
+        "address": "50 Damascus Rd, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 60,
+        "managed": true,
+        "manager": "Templeton",
+        "availability": {
+          "1br": "limited",
+          "2br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-23",
+        "PID": "92785238",
+        "pid": "92785238",
+        "rent_min": 1922,
+        "rent_max": 2706,
+        "rent_by_type": {
+          "1br": {
+            "min": 1922,
+            "max": 2158
+          },
+          "2br": {
+            "min": 2288,
+            "max": 2706
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6458,
+          44.6543
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1014",
+        "name": "Clayton Heights",
+        "address": "15 Lacewood Dr, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 88,
+        "managed": true,
+        "manager": "Universal Realty",
+        "availability": {
+          "studio": "waitlist",
+          "1br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2026-01-03",
+        "PID": "05643702",
+        "pid": "05643702",
+        "rent_min": 1708,
+        "rent_max": 2129,
+        "rent_by_type": {
+          "studio": {
+            "min": 1708,
+            "max": 1959
+          },
+          "1br": {
+            "min": 1882,
+            "max": 2129
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5408,
+          44.6671
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1015",
+        "name": "Penhorn Estates",
+        "address": "28 Ellenvale Ave, Dartmouth",
+        "building_type": "Apartment Building",
+        "units_total": 54,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "1br": "available",
+          "2br": "limited"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-28",
+        "PID": "93316406",
+        "pid": "93316406",
+        "rent_min": 1793,
+        "rent_max": 2841,
+        "rent_by_type": {
+          "1br": {
+            "min": 1793,
+            "max": 2032
+          },
+          "2br": {
+            "min": 2353,
+            "max": 2841
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7485,
+          44.646
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1016",
+        "name": "Timberlea Court",
+        "address": "25 Forestglen Dr, Timberlea",
+        "building_type": "Multi-Unit Building",
+        "units_total": 32,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "2br": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2026-01-04",
+        "PID": "26264228",
+        "pid": "26264228",
+        "rent_min": 2108,
+        "rent_max": 2648,
+        "rent_by_type": {
+          "2br": {
+            "min": 2108,
+            "max": 2648
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6845,
+          44.7822
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1017",
+        "name": "Sackville Crossing",
+        "address": "10 Riverside Dr, Lower Sackville",
+        "building_type": "Apartment Building",
+        "units_total": 98,
+        "managed": true,
+        "manager": "MetCap",
+        "availability": {
+          "1br": "limited",
+          "2br": "available"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-23",
+        "PID": "64657014",
+        "pid": "64657014",
+        "rent_min": 1799,
+        "rent_max": 2547,
+        "rent_by_type": {
+          "1br": {
+            "min": 1799,
+            "max": 2226
+          },
+          "2br": {
+            "min": 2102,
+            "max": 2547
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6037,
+          44.6589
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1018",
+        "name": "Almon Place",
+        "address": "6100 Almon St, Halifax",
+        "building_type": "Apartment Building",
+        "units_total": 22,
+        "managed": false,
+        "manager": null,
+        "availability": {
+          "studio": "available"
+        },
+        "confidence": "owner_reported",
+        "last_updated": "2025-12-24",
+        "PID": "64050785",
+        "pid": "64050785",
+        "rent_min": 1601,
+        "rent_max": 1797,
+        "rent_by_type": {
+          "studio": {
+            "min": 1601,
+            "max": 1797
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5159,
+          44.6761
+        ]
+      },
+      "properties": {
+        "building_id": "HRM-RR-1019",
+        "name": "Portland Hills",
+        "address": "80 Portland Hills Dr, Dartmouth",
+        "building_type": "Apartment Building",
+        "units_total": 70,
+        "managed": true,
+        "manager": "Armour Group",
+        "availability": {
+          "1br": "available",
+          "2br": "limited"
+        },
+        "confidence": "manager_verified",
+        "last_updated": "2025-12-30",
+        "PID": "52176645",
+        "pid": "52176645",
+        "rent_min": 1868,
+        "rent_max": 2640,
+        "rent_by_type": {
+          "1br": {
+            "min": 1868,
+            "max": 2307
+          },
+          "2br": {
+            "min": 2234,
+            "max": 2640
+          }
+        }
+      }
+    }
+  ]
+}
